@@ -7,7 +7,7 @@ course_semester: "Winter 1403"
 
 
 
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "/landin/" # the subpath of your site, e.g. /blog/
 url: "http://AdvancedAlgorithms-ut.github.io/" # the base hostname & protocol for your site
 
 schoolname: "University of Tehran"
