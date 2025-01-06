@@ -3,17 +3,7 @@ type: lecture
 date: 2025-01-03T8:00:00+4:30
 title: Intro
 tldr: "Introduction to the course and its topics."
-thumbnail: /static_files/presentations/intro.jpg
-links: 
-    - url: /static_files/presentations/intro_notes.zip
-      name: notes
-    - url: /static_files/presentations/intro_code.zip
-      name: codes
-    - url: https://example.com/slides/intro
-      name: slides
----
-**Suggested Readings:**
-- [Introduction Reading](http://example.com/intro)
+
 
 
 <!-- ---
