@@ -1,10 +1,10 @@
 instructors:
   - name: Dr. Heshaam Faili
-    profile_pic: /_images/pp/dumbledore.jpg
+    profile_pic: /_images/pp/avatar.png
     webpage: https://scholar.google.se/citations?user=m5tCFEoAAAAJ&hl=en
 
 
 teaching_assistants:
   - name: Sepehr Karimi
-    profile_pic: /_images/pp/potter.jpg
+    profile_pic: /_images/pp/avatar.png
     webpage: https://sepehr-karimi.github.io
