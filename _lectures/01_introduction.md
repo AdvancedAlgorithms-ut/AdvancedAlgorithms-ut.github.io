@@ -1,4 +1,4 @@
----
+<!-- ---
 type: lecture
 date: 2025-01-03T8:00:00+4:30
 title: Intro
@@ -20,7 +20,7 @@ links:
 ---
 **Suggested Readings:**
 - [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+- [Readings 2](http://example.com) -->
 
 
 
