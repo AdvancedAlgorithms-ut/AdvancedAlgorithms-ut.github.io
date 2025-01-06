@@ -12,7 +12,7 @@ url: "https://AdvancedAlgorithms-ut.github.io" # the base hostname & protocol fo
 
 schoolname: "University of Tehran"
 schoolurl: "https://ut.ac.ir"
-twitter_username: username 
+# twitter_username: username 
 
 address: |
     Deaprtment of Electrical and Computer Engineering
